@@ -30,3 +30,10 @@ This project targets core distribution metrics by engineering a relational datab
 
 \* `/sql\_scripts/queries.sql`: Features the analytical queries engineered for data extraction and business intelligence reporting.
 
+
+
+## Executive Tableau Dashboard
+An interactive dashboard tracking key vendor metrics including OTIF Percentage and Lead Time Variance:
+
+![Supplier Performance Dashboard](dashboard_preview.png)
+
